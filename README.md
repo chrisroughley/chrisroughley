@@ -1,8 +1,6 @@
 <img src="./github banner.png"/>
 
-#### 👋 I'm a junior full stack software developer with a passion for learning new things.
-
-## Lets Connect
+#### I'm a junior full stack software developer with a passion for learning new things. I've recently graduated from a coding bootcamp at Northcoders and I'm super excited to see where my journey takes me next! While your here if you see anything you like, want to work together or just want to chat feel free to connect with me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-roughley-b6176020a/?target=_blank)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.roughley@ntlworld.com?subject=%20Github)
