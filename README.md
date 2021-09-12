@@ -1,6 +1,6 @@
 <img src="./github banner.png"/>
 
-👋 I'm a junior full stack software developer.
+#### 👋 I'm a junior full stack software developer with a passion for learning new things.
 
 ## Lets Connect
 
