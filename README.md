@@ -1,6 +1,6 @@
 <img src="./github banner.png"/>
 
-I'm a junior full stack software developer with a passion for learning new things. I've recently graduated from a coding bootcamp at Northcoders and I'm super excited to see where my journey takes me next! While your here if you see anything you like, want to work together or just want to chat? Feel free to connect with me at:
+I'm a junior full stack software developer with a passion for learning new things. I've recently graduated from a coding bootcamp at <a href="https://northcoders.com/">Northcoders</a> and I'm super excited to see where my journey takes me next! While your here if you see anything you like, want to work together or just want to chat? Feel free to connect with me at:
 
 <br>
 
