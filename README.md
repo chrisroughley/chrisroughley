@@ -1,4 +1,4 @@
-### <h1>Hello world, I'm chris</h1> 👋
+### <h1>Hello world👋, I'm Chris!</h1>
 
 <!--
 **chrisroughley/chrisroughley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
