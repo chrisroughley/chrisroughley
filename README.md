@@ -13,8 +13,14 @@ Here are some of the technologies I've used.
 
 
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisroughley&theme=github_dark&show_icons=true&count_private=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisroughley&layout=compact&theme=github_dark&hide_border=true&card_height=300)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisroughley&theme=github_dark&show_icons=true&count_private=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisroughley&layout=compact&theme=github_dark&hide_border=true&height=300)
 
+<a >
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=chrisroughley&theme=github_dark&show_icons=true&count_private=true&hide_border=true" />
+</a>
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisroughley&layout=compact&theme=github_dark&hide_border=true" />
+</a>
 
 
 <!--
